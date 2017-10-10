@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: jacobmini/netlify-cms # Path to your Github repository
+  repo: jacobtyq/netlify-cms # Path to your Github repository
   branch: master # Branch to update
 
 media_folder: "static/images/uploads" # Media files will be stored in the repo under static/images/uploads
