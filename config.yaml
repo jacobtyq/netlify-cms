@@ -1,0 +1,4 @@
+baseURL: "https://teller-tape-30381.netlify.com/"
+languageCode: "en-us"
+title: "Hugo + Netlify CMS"
+theme: "hyde"
