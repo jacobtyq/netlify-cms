@@ -1,7 +1,7 @@
 # Backend 
 backend:
-  name: github
-  repo: jacobtyq/netlify-cms # Path to your Github repository
+  name: gitlab #github
+  repo: jacobmini/netlify-cms # Path to your Github repository
   branch: master # Branch to update
 
 # Folders
